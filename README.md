@@ -1,2 +1,1 @@
-apo
-===
+ApolloCanis libGDX Seed Project
